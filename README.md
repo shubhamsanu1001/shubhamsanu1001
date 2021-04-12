@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamsanu1001
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ML based project
 - 📫 Contact me on https://www.linkedin.com/in/shubham-sanu-b9b052a5/
 
